@@ -4,7 +4,6 @@ date: 2021-05
 category: product
 tags:
   - browser-extension
-  - open-source
 links:
   chrome_web_store: https://chromewebstore.google.com/detail/a-wrench-menu/npngmeachnajkiekngpdhmnhkcgieccf
   source: https://github.com/arfct/wrench
