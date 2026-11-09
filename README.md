@@ -47,3 +47,7 @@ These don't show in the menu, but you can set shortcuts for them.
 - Switch to Prior Tab
 - Close Download Bar
 - New Tab After This One
+
+## Catalogue
+
+Wrench's entry in the [Artifact catalogue](https://catalogue-artifact.pages.dev/catalog/wrench/) lives in [`.artifact/`](.artifact/wrench.md). Edit it there; the catalogue imports it.
