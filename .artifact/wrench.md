@@ -13,7 +13,6 @@ media:
   - src: menu.png
     caption: The Wrench Menu open from the toolbar, with its tab and window commands and their shortcuts
     alt: A Chrome toolbar popup menu with the sections Tab, Window and Shortcuts, listing commands such as Copy Title with Link, Merge All Windows and Switch to Prior Tab, each with a keyboard shortcut
-role: Design, Engineering
 unconfirmed:
   - date
 ---
