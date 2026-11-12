@@ -1,6 +1,7 @@
 ---
 title: Wrench
 date: 2021-05
+status: released
 category: product
 tags:
   - browser-extension
@@ -16,8 +17,7 @@ media:
   - src: menu-all.png
     caption: The menu after Show All Menu Items is chosen, with a checkbox beside each of the thirteen commands and the six optional ones unchecked
     alt: A white popup menu on a pale grey ground with the sections Tab, Window and Shortcuts, thirteen commands each with a checkbox, seven of them ticked, key combinations beside three of the Tab commands, and at the bottom Keyboard shortcuts... and Hide Unchecked Items
-unconfirmed:
-  - date
+unconfirmed: [date, status]
 ---
 
 The wrench in Chrome's toolbar opens a menu in two groups, Tab and Window, with seven commands between them. The extension behind it is Wrench, published in the Chrome Web Store as A Wrench Menu and last updated there in August 2022. Six further commands, Pin Tab and Switch to Prior Tab among them, are left out of the menu until Show All Menu Items is chosen, and any of the thirteen can be given a keyboard shortcut.
