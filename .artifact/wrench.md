@@ -2,7 +2,7 @@
 title: Wrench
 date: 2021-05
 status: released
-category: product
+category: browser-extension
 tags:
   - browser-extension
 url: https://chromewebstore.google.com/detail/a-wrench-menu/npngmeachnajkiekngpdhmnhkcgieccf
